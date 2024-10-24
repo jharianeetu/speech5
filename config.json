@@ -1,0 +1,12 @@
+{
+    "model": "XTTS",
+    "generator_model": "XTTS",
+    "output_path": "E:/speech5/output",
+    "train_data_path": "E:/speech5/datawav/train.json",
+    "val_data_path": "E:/speech5/datawav/val.json",
+    "batch_size": 8,
+    "learning_rate": 0.001,
+    "num_epochs": 100,
+    "eval_split_size": 0.1
+  }
+  
